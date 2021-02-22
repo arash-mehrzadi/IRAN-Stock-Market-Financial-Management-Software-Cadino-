@@ -11,6 +11,7 @@ Linkedin: [Link](https://ir.linkedin.com/in/arashmehrzadi)
 
 Website: [arashmehrzadi.com](https://arashmehrzadi.com)
 
+Kaggle: [Link](kaggle.com/arashmehrzadi)
 
 # phase one
 
