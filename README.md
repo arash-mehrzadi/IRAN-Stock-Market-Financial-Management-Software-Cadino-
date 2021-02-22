@@ -25,3 +25,9 @@ Release date of the trial version   5-30-2021
 # Software images
 
 <img src="https://github.com/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-/blob/master/Resources/F_panel_SS.png" width="whatever" height="whatever">
+
+<p align="left">
+    <a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/arash-mehrzadi/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-?label=updated&style=flat-square"></a>
+</p>
