@@ -1,7 +1,7 @@
 # IRAN Stock Market Financial Management Software * Cadino *
 
 
-<img src="https://github.com/arash-mehrzadi/Cadino_Trade_IranStockMarket/blob/master/Csh/wall-4.jpg" width=100% height=300px>
+<img src="https://github.com/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-/blob/master/Resources/wall-4.jpg" width=100% height=300px>
 
 # phase one
 
@@ -14,4 +14,4 @@ Release date of the trial version   3-30-2021
 Release date of the trial version   5-30-2021
 # Software images
 
-<img src="https://github.com/arash-mehrzadi/Cadino_Trade_IranStockMarket/blob/master/Csh/F_panel_SS.png" width="whatever" height="whatever">
+<img src="https://github.com/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-/blob/master/Resources/F_panel_SS.png" width="whatever" height="whatever">
