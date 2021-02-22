@@ -11,6 +11,9 @@ Linkedin: [Link](https://ir.linkedin.com/in/arashmehrzadi)
 
 Website: [arashmehrzadi.com](https://arashmehrzadi.com)
 
+![Alt Text](https://github.com/arash-mehrzadi/IRAN-Stock-Market-Financial-Management-Software-Cadino-/blob/master/Resources/ezgif-7-a7676435d761.gif)
+
+
 # phase one
 
 - Implementation of fluctuation control panel in the stock market
